@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "01basic": "^1.0.0",
-    "create-react-app": "^5.0.1",
-    "fund": "^1.0.0"
-  }
-}
